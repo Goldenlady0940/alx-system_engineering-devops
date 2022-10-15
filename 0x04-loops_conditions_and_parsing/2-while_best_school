@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-int i = 0;
-while i < 10
+#using while print best school 10 times
+i = 0
+while [ $i < 10 ]
 do
 	echo "Best School"
-	i++;
+	((i++));
 done

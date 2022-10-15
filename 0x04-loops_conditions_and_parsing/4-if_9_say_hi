@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# display "Best School" 10x if 9 say hi
+# Shell script with a condition print statement
 i=1
 while [ $i -le 10 ]
 do

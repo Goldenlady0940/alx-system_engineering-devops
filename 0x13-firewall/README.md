@@ -1,1 +1,1 @@
-Block all incoming traffic except SSH, HTTPS SSL and ufw
+# 0x13 - Firewall
